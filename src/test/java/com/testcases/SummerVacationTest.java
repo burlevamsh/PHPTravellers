@@ -51,9 +51,9 @@ public class SummerVacationTest {
 		page.dropdown();
 		Thread.sleep(10000);
 		page.name(name);
-		String a=(String) password.subSequence(4,13);
+		String a=(String) password.subSequence(3,13);
 		page.phone(a);
-		Thread.sleep(10000);
+	//	Thread.sleep(10000);
 		page.message(message);
 		}
 }

@@ -27,7 +27,7 @@ public class Pages {
 	@FindBy(xpath="//input[@placeholder='Phone']")
 	WebElement phone;
 	
-	@FindBy(xpath="/html[1]/body[1]/div[2]/div[1]/div[3]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/form[1]/fieldset[1]/div[1]/div[4]/textarea[1]")
+	@FindBy(xpath="//textarea[@placeholder='Message']")
 	WebElement message;
 	
 	
@@ -53,7 +53,7 @@ public class Pages {
 	}
 	
 	public void message(String messageSent) {
-		phone.sendKeys(messageSent);
+		message.sendKeys(messageSent);
 	}
 	
 

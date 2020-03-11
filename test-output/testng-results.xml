@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="65074" started-at="2020-03-11T17:38:26Z" finished-at="2020-03-11T17:39:31Z">
+  <suite name="Default suite" duration-ms="55938" started-at="2020-03-11T17:54:09Z" finished-at="2020-03-11T17:55:05Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="65074" started-at="2020-03-11T17:38:26Z" finished-at="2020-03-11T17:39:31Z">
+    <test name="Default test" duration-ms="55938" started-at="2020-03-11T17:54:09Z" finished-at="2020-03-11T17:55:05Z">
       <class name="com.testcases.SummerVacationTest">
-        <test-method status="PASS" signature="before_suite()[pri:0, instance:com.testcases.SummerVacationTest@6e1ec318]" name="before_suite" is-config="true" duration-ms="55" started-at="2020-03-11T17:38:26Z" finished-at="2020-03-11T17:38:26Z">
+        <test-method status="PASS" signature="before_suite()[pri:0, instance:com.testcases.SummerVacationTest@6e1ec318]" name="before_suite" is-config="true" duration-ms="50" started-at="2020-03-11T17:54:09Z" finished-at="2020-03-11T17:54:09Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- before_suite -->
-        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.testcases.SummerVacationTest@6e1ec318]" name="beforeTest" is-config="true" duration-ms="17759" started-at="2020-03-11T17:38:26Z" finished-at="2020-03-11T17:38:44Z">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.testcases.SummerVacationTest@6e1ec318]" name="beforeTest" is-config="true" duration-ms="18703" started-at="2020-03-11T17:54:09Z" finished-at="2020-03-11T17:54:28Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="vaccationTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.testcases.SummerVacationTest@6e1ec318]" name="vaccationTest" duration-ms="44945" started-at="2020-03-11T17:38:46Z" data-provider="dp" finished-at="2020-03-11T17:39:31Z">
+        <test-method status="PASS" signature="vaccationTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.testcases.SummerVacationTest@6e1ec318]" name="vaccationTest" duration-ms="35100" started-at="2020-03-11T17:54:30Z" data-provider="dp" finished-at="2020-03-11T17:55:05Z">
           <params>
             <param index="0">
               <value>
